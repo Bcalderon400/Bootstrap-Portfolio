@@ -1,0 +1,65 @@
+
+
+/***************HEADER****************/
+header{
+    background-image: url("../images/dark-honeycomb.png");
+    width: 100%;
+    border-bottom: 4px solid #4aaaa5;
+    height: 125px;
+}
+.header-container{
+    width: 960px;
+    margin: 0 auto;
+}
+.brand{
+    background-color: #4aaaa5;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 26px;
+    padding: 25px;
+}
+.mini{
+    margin-top: 49px;
+}
+.nav-bar{
+    margin-top: 70px;
+}
+a{
+    color: #777777;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+/********content*********/
+body{
+    background-image: url("../images/otis_redding.png");
+}
+.container{
+    width: 960px;
+    background-image: url("../images/diagonal_waves.png");
+}
+.content{
+    margin: 50px;
+}
+.card-body{
+    background: rgba(74, 170, 165, 0.6);
+    text-align: center;
+}
+.card-text{
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #ffffff;
+}
+.card{
+  margin: 50px;
+}
+
+/*******footer****/
+.footer {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    color: #777777;
+    background-image: url("../images/dark-honeycomb.png");
+    text-align: center;
+    border-top: 4px solid #4aaaa5;
+  }
